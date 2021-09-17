@@ -1,4 +1,4 @@
-# [BreadJar](breadjar.herokuapp.com) - Chrome Extension Repo
+# [BreadJar](https://breadjar.herokuapp.com) - Chrome Extension Repo
 
 ![Tour Gif](breadjar-tour-min.gif)
 
@@ -14,4 +14,4 @@
 - 📊 Statistics and record keeping for tips received and given.
 - 📦 Free and Open-Source!
 
-#### [Get started now with BreadJar!](breadjar.herokuapp.com)
+#### [Get started now with BreadJar!](https://breadjar.herokuapp.com)
