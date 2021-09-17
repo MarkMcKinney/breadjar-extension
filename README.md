@@ -1,7 +1,7 @@
 ![Tour Gif](breadjar-tour-min.gif)
 
-# [BreadJar - Extension Repo](breadjar.herokuapp.com)
-Get tipped for for your commits!
+# [BreadJar](breadjar.herokuapp.com) - Chrome Extension Repo
+## Get tipped for for your commits!
 
 You're currently viewing the repo for the **Chrome Extension**. If you'd like to see the repo for the server, [visit here](https://github.com/MarkMcKinney/breadjar-server).
 
