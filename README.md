@@ -2,7 +2,7 @@
 
 ![Tour Gif](breadjar-tour-min.gif)
 
-### Get tipped for for your commits!
+## Get tipped for for your commits!
 
 **Note**: You're currently viewing the repo for the **Chrome Extension**. If you'd like to see the repo for the server, [visit here](https://github.com/MarkMcKinney/breadjar-server).
 
@@ -14,4 +14,4 @@
 - 📊 Statistics and record keeping for tips received and given.
 - 📦 Free and Open-Source!
 
-#### [Get started now with BreadJar!](https://breadjar.herokuapp.com)
+### [Get started now with BreadJar!](https://breadjar.herokuapp.com)
